@@ -1,0 +1,48 @@
+- date: 2019-09-11
+  title: Autoscaling with Kinesis stream + COGS reduction  
+  link: https://medium.com/javarevisited/autoscaling-with-kinesis-stream-cogs-reduction-dfd87848ce9a
+- date: 2019-09-11
+  title: Copying TB’s of data between AWS S3 buckets
+  link: https://medium.com/javarevisited/copying-tbs-of-data-between-s3-buckets-8438dde7dadb
+- date: 2019-09-24
+  title: Run CPU or memory intensive operations using kubernetes job
+  link: https://medium.com/javarevisited/run-cpu-or-memory-intensive-operations-using-kubernetes-job-f086ba832ba7
+- date: 2019-10-06
+  title: My journey into “Certified Kubernetes Application Developer (CKAD)”
+  link: https://medium.com/javarevisited/my-journey-into-certified-kubernetes-application-developer-ckad-47f2c4682936
+- date: 2019-10-26
+  title: Migrating code base to annotation-based spring transaction in 1 day
+  link: https://medium.com/javarevisited/migrating-code-base-to-annotation-based-spring-transaction-in-1-day-5f55fb68198e
+- date: 2019-10-27
+  title: Enabling HA in Kubernetes based deployments
+  link: https://medium.com/javarevisited/enabling-ha-in-kubernetes-based-deployments-ef2cf9c49676
+- date: 2019-10-31
+  title: Cost effective way of running spark in AWS EMR
+  link: https://medium.com/javarevisited/cost-effective-way-of-running-spark-in-aws-emr-dfcda28bb2b5
+- date: 2019-12-03
+  title: Async process using Spring and injecting user context
+  link: https://medium.com/javarevisited/async-process-using-spring-and-injecting-user-context-6f1af16e9759
+- date: 2020-04-20
+  title: Distributed caching with Ehcache using MySQL
+  link: https://medium.com/javarevisited/distributed-caching-with-ehcache-using-mysql-16b71d62ec23
+- date: 2020-05-22
+  title: Build Code Challenge Application
+  link: https://medium.com/javarevisited/build-code-challenge-application-23aa40d183fa
+- date: 2020-07-01
+  title: Health checks using Spring Boot Actuator (efficient and modular)
+  link: https://medium.com/javarevisited/health-checks-using-spring-boot-actuator-efficient-and-modular-4ed06b123a07
+- date: 2020-07-31
+  title: Graduating from Leetcode
+  link: https://medium.com/javarevisited/graduating-from-leetcode-b5da6a786514
+- date: 2021-04-22
+  title: Simple, Yet Scalable “Blue-Green Deployments” in AWS EKS
+  link: https://medium.com/geekculture/simple-yet-scalable-blue-green-deployments-in-aws-eks-87815aa37c03
+- date: 2021-06-08
+  title: Load test your Serverless Apps
+  link: https://medium.com/geekculture/load-test-your-serverless-apps-8bf1ab9cade4
+- date: 2021-07-22
+  title: Centralize Log collection with Kinesis Firehose using Lambda Extensions
+  link: https://medium.com/javarevisited/centralize-log-collection-with-kinesis-firehose-using-lambda-extensions-a12015e46ed5
+- date: 2021-08-06
+  title: Batch processing in scale using Kubernetes jobs
+  link: https://medium.com/geekculture/batch-processing-in-scale-using-kubernetes-jobs-2759fdf9bdb3

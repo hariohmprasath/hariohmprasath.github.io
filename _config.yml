@@ -1,1 +1,36 @@
-theme: jekyll-theme-architect
+# Theme
+remote_theme: epidrome/cover-card@main
+
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: https://www.hariohmprasth.com/
+baseurl: /
+sourceurl: https://github.com/hariohmprasath/hariohmprasath.github.io
+title: Hari Ohm Prasath
+author: Hari Ohm Prasath
+authortitle: Senior Modernization Architect
+shortintro: I am a software engineer who loves coding and writing
+description: Personal website
+avatar: profile.png
+email: hariohmprasath@gmail.com
+github: hariohmprasath
+twitter: hariohmprasath
+linkedin: hariohmprasath
+facebook: hariohmprasath
+medium: hariohmprasath
+google_analytics: UA-20185599-1
+
+
+# needed for travis-ci build
+exclude: [vendor]

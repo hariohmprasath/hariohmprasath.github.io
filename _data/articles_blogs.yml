@@ -1,0 +1,8 @@
+- date: 2021-03-02
+  title: Caching data and configuration settings with AWS Lambda extensions
+  site: AWS Compute Blog
+  link: https://aws.amazon.com/blogs/compute/caching-data-and-configuration-settings-with-aws-lambda-extensions/
+- date: 2021-04-01
+  title: Run Selenium tests at scale using AWS Fargate
+  site: AWS Open Source Blog
+  link: https://aws.amazon.com/blogs/opensource/run-selenium-tests-at-scale-using-aws-fargate/
