@@ -1,0 +1,24 @@
+- image: static/img/k8s.png
+  title: Certified Kubernetes Application Developer
+  provider: The Linux Foundation
+- image: static/img/aws.png
+  title: AWS Solution Architect Professional
+  provider: Amazon Web Services (AWS)
+- image: static/img/aws.png
+  title: AWS Solution Architect Associate
+  provider: Amazon Web Services (AWS)
+- image: static/img/aws.png
+  title: AWS Certified Developer Associate
+  provider: Amazon Web Services (AWS)
+- image: static/img/ds.png
+  title: DataStax Certified Professional on Apache Cassandra
+  provider: DataStax
+- image: static/img/oracle.png
+  title: Oracle Certified Associate (OCA)
+  provider: Oracle
+- image: static/img/sun.png
+  title: Sun Certified Web Component Developer (SCWD)
+  provider: Sun Microsystems 
+- image: static/img/sun.png
+  title: Sun Certified Java Developer (SCJP)
+  provider: Sun Microsystems                               

@@ -1,0 +1,43 @@
+<section id="certifications">
+	<div class="container">
+		<h3>Patents</h3>
+		<div class="panel panel-default">
+			<div class="panel-body">
+				{% assign sorted_patents = (site.data.patents | sort: 'date') | reverse %}
+				{% for patent in sorted_patents %}
+				<div class="row">
+					<div class="col-sm-2 col-md-2 col-lg-2">
+						<h5 style="text-align: left">
+							{{ patent.date | date: "%B %e, %Y" }}
+						</h5>
+					</div>
+					<div class="col-sm-10 col-md-10 col-lg-10">
+						<h5 style="text-align: left">
+							<strong>{{ patent.title }}</strong><br />
+							{{ patent.number }}
+						</h5>
+					</div>
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+		<h3>Certifications</h3>
+		<div class="panel panel-default">
+			<div class="panel-body">				
+				{% for article in site.data.certifications %}
+				<div class="row">
+					<div class="col-sm-2 col-md-2 col-lg-2">
+						<img src="{{ article.image }}" alt="{{ article.title }}" class="img-responsive">						
+					</div>
+					<div class="col-sm-10 col-md-10 col-lg-10">
+						<h5 style="text-align: left">
+							<strong>{{ article.title }}</strong> <br/>
+							by {{ article.provider }}							
+						</h5>
+					</div>					
+				</div>				
+				{% endfor %}
+			</div>
+		</div>		
+	</div>
+</section>
