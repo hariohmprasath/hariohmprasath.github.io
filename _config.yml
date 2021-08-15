@@ -1,6 +1,3 @@
-# Theme
-remote_theme: epidrome/cover-card@main
-
 # top level stuff you probably don't need to touch
 highlighter: rouge
 markdown: kramdown
